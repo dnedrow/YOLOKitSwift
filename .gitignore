@@ -205,3 +205,5 @@ xcuserdata
 *.xcodeproj
 
 # End of https://www.gitignore.io/api/git,swift,macos,clion,swiftpm
+/.idea/markdown-navigator/
+/.idea/markdown-navigator.xml
